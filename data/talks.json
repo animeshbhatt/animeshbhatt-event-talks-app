@@ -1,0 +1,50 @@
+[
+    {
+        "id": "talk1",
+        "title": "Introduction to AI in Software Engineering",
+        "speakers": ["Alice Johnson"],
+        "category": ["AI", "Software Engineering"],
+        "duration": 60,
+        "description": "An overview of how Artificial Intelligence is transforming various aspects of software development, from automated code generation to intelligent testing."
+    },
+    {
+        "id": "talk2",
+        "title": "Mastering Modern JavaScript Frameworks",
+        "speakers": ["Bob Smith", "Carol White"],
+        "category": ["Frontend", "JavaScript", "Web Development"],
+        "duration": 60,
+        "description": "Dive deep into the latest features and best practices of popular JavaScript frameworks like React, Vue, and Angular."
+    },
+    {
+        "id": "talk3",
+        "title": "Cloud Native Architectures with Kubernetes",
+        "speakers": ["David Green"],
+        "category": ["Cloud", "DevOps", "Kubernetes"],
+        "duration": 60,
+        "description": "Explore the principles of cloud-native development and how Kubernetes can be leveraged for scalable and resilient applications."
+    },
+    {
+        "id": "talk4",
+        "title": "Secure Coding Practices for Web Applications",
+        "speakers": ["Eve Black"],
+        "category": ["Security", "Web Development"],
+        "duration": 60,
+        "description": "Learn essential secure coding techniques to protect your web applications from common vulnerabilities and attacks."
+    },
+    {
+        "id": "talk5",
+        "title": "Data Science for Developers",
+        "speakers": ["Frank Blue", "Grace Red"],
+        "category": ["Data Science", "AI", "Programming"],
+        "duration": 60,
+        "description": "A practical guide to data science concepts and tools for software developers looking to integrate data-driven insights into their work."
+    },
+    {
+        "id": "talk6",
+        "title": "Building High-Performance APIs with Node.js",
+        "speakers": ["Harry Gold"],
+        "category": ["Backend", "Node.js", "API"],
+        "duration": 60,
+        "description": "Discover techniques and best practices for developing fast and efficient RESTful APIs using Node.js and related technologies."
+    }
+]
